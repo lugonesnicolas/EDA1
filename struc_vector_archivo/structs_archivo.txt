@@ -1,0 +1,4 @@
+1)Alumno: Nicolas Edad:27
+2)Alumno: Elias Edad:27
+3)Alumno: Nahir Edad:26
+4)Alumno: Ingrid Edad:21
